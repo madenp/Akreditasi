@@ -1,0 +1,782 @@
+[
+    {
+        "0":"1",
+        "1":"Kejuaran Internasional University Karate Championship Sebelas Maret Cup XII 17 - 19 Maret 2023",
+        "2":"Non-akademik",
+        "3":2023.0,
+        "4":null,
+        "5":null,
+        "6":1.0,
+        "7":"Juara 3"
+    },
+    {
+        "0":"2",
+        "1":"Indonesian Youth Sicience Olympics (IYSO) 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"3",
+        "1":"Lomba Sharia Creative Business Plan Competition",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Finalis"
+    },
+    {
+        "0":"4",
+        "1":"Lomba Business Plan Competition",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Finalis Top 10"
+    },
+    {
+        "0":"5",
+        "1":"Business Plan Competition",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara Harapan 2"
+    },
+    {
+        "0":"6",
+        "1":"ACUSTIC (Agriculture Scientific Writing Competition) 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"7",
+        "1":"Noble Unesa 2023 \"Exploring The Creativity of Young Enterpreneurs Towards The 5.0 Business Era With Noble Unesa 2023\"",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"8",
+        "1":"UHO Action 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"9",
+        "1":"Nasional Businees Plan Of Chemistry Unesa 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"10",
+        "1":"Lomba Sharia Creative Business Plan Competition",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Finalis"
+    },
+    {
+        "0":"11",
+        "1":"Nobela Unesa 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"12",
+        "1":"Silver Medal National Business Plan Competition",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"13",
+        "1":"National Business Plan Competition 2 (NBPC)",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"The Most Favorite Poster"
+    },
+    {
+        "0":"14",
+        "1":"National Business Plan Competition 2 (NBPC)",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara Harapan 2"
+    },
+    {
+        "0":"15",
+        "1":"National Business Plan Competition 2 (NBPC)",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Favorite Poster"
+    },
+    {
+        "0":"16",
+        "1":"National Business Plan Competition 2 (NBPC)",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Silver 2"
+    },
+    {
+        "0":"17",
+        "1":"ACUSTIC (Agriculture Scientific Writing Competition) 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"18",
+        "1":"UHO Action 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"19",
+        "1":"Halu Oleo Mining Competition 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"20",
+        "1":"LKTI Tingkat Mahasiswa",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"21",
+        "1":"Paper Competititon",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"22",
+        "1":"Sosial Project Competition",
+        "2":"Non-akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"23",
+        "1":"UHO Action 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"24",
+        "1":"Lomba Qasidah Remaja Putri",
+        "2":"Non-akademik",
+        "3":2023.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"25",
+        "1":"National Design Poster Competition Tingkat Mahasiswa",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"26",
+        "1":"Indonesian Youth Sicience Olympics (IYSO) 2023",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"27",
+        "1":"Level For Accounting",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 9"
+    },
+    {
+        "0":"28",
+        "1":"Level For Bahasa Indonesia",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 4"
+    },
+    {
+        "0":"29",
+        "1":"Level For Economics",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 4"
+    },
+    {
+        "0":"30",
+        "1":"Level For English",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Achievement"
+    },
+    {
+        "0":"31",
+        "1":"Level For History",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"32",
+        "1":"Level For Mathematics",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 5"
+    },
+    {
+        "0":"33",
+        "1":"Lomba Konten Kreatif Akuntansi 2023 Dalam Rangka HUT IAI Ke-66",
+        "2":"Akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"34",
+        "1":"Lomba Business Plan Competition",
+        "2":"Non-akademik",
+        "3":2023.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Finalis Top 10"
+    },
+    {
+        "0":"35",
+        "1":"Lomba National Business Plan Competition \"Jambi Accounting Competition Seminar National 2024\"",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"36",
+        "1":"Best Video Innovation : International Youth Excursion Network (IYEN)",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":null,
+        "6":1.0,
+        "7":"Juara 1"
+    },
+    {
+        "0":"37",
+        "1":"Noble Unesa 2024",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"38",
+        "1":"National Business Plan Competition 4 \/ Bronze Medal",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"39",
+        "1":"National Business Plan Competition 4 \/ Best Presentation",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"40",
+        "1":"National Business Plan Competition 4 \/ Best Poster",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"41",
+        "1":"National Business Plan Competition 4 \/ Favorite Video",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Peserta"
+    },
+    {
+        "0":"42",
+        "1":"National Business Plan Competition 4 \/ The Most Favorite Poster",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Peserta"
+    },
+    {
+        "0":"43",
+        "1":"National Business Plan Competition 4 \/ Favorite Poster",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Peserta"
+    },
+    {
+        "0":"44",
+        "1":"Bussines Plan Competition oleh HMP EKIS Univ. Jambi",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"45",
+        "1":"Silver Medal Bisnis Plan - Kuliner ; Perlombaan NEC Universitas Islam Negeri Syarif Hidayatullah Jakarta",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"46",
+        "1":"Bisnis Plan - Energi & Lingkungan",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Favorite Poster"
+    },
+    {
+        "0":"47",
+        "1":"Bisnis Plan - Kuliner",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Silver Medal"
+    },
+    {
+        "0":"48",
+        "1":"Bisnis Plan - Energi & Lingkungan",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Silver Medal"
+    },
+    {
+        "0":"49",
+        "1":"Bisnis Plan - Kuliner ; Perlombaan NEC Universitas Islam Negeri Syarif Hidayatullah Jakarta",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"50",
+        "1":"Kompetisi Opini Ilmiah",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"51",
+        "1":"Bisnis Plan - Energi & Lingkungan",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Silver Medal"
+    },
+    {
+        "0":"52",
+        "1":"Bisnis Plan - Kuliner",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Silver Medal"
+    },
+    {
+        "0":"53",
+        "1":"Bisnis Plan - Energi & Lingkungan",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Favorite Poster"
+    },
+    {
+        "0":"54",
+        "1":"Halu Oleo Management Business Case Competition (HMBCC) 2024",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"55",
+        "1":"Halu Oleo Management Business Case Competition (HMBCC) 2024",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"56",
+        "1":"Competition of Invesment Club 2024",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"57",
+        "1":"Kejuaraan Karate Terbuka Tingkat Nasional",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Peserta"
+    },
+    {
+        "0":"58",
+        "1":"Lomba Puisi Religi",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"59",
+        "1":"Lomba Ceramah",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara Harapan 2"
+    },
+    {
+        "0":"60",
+        "1":"Lomba Qultum",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"61",
+        "1":"Lomba Karya Tulis Ilmiah Al-Qur'an (KTIQ)",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"62",
+        "1":"Lomba Qasidah Remaja Putri",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"63",
+        "1":"Lomba Qasidah Klasik Dewasa Putri",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"64",
+        "1":"Lomba Reels Profesi Keuangan Expo",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Top 6"
+    },
+    {
+        "0":"65",
+        "1":"Reels Psycompetition",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Runner Up"
+    },
+    {
+        "0":"66",
+        "1":"Lomba TikTok Challenge",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"67",
+        "1":"Lomba Orasi Mahasiswa Akuntansi",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"68",
+        "1":"Kyorugi Senior Putri U-53 Kg (Taekwondo)",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"69",
+        "1":"Rektor Unhas Cup XVI 2024",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"70",
+        "1":"Lomba Menulis Cerpen",
+        "2":"Akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"71",
+        "1":"Pekan Olahraga Mahasiswa Nusantara 2024",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"72",
+        "1":"Badminton",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"73",
+        "1":"Lari Marathon",
+        "2":"Non-akademik",
+        "3":2024.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"74",
+        "1":"Lomba Karya Tulis Ilmiah Hadis (KTIH)",
+        "2":"Akademik",
+        "3":2025.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 2"
+    },
+    {
+        "0":"75",
+        "1":"Lomba Puisi Religi",
+        "2":"Non-akademik",
+        "3":2025.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 1"
+    },
+    {
+        "0":"76",
+        "1":"Lomba Karya Tulis Ilmiah Tingkat Nasional",
+        "2":"Akademik",
+        "3":2025.0,
+        "4":1.0,
+        "5":null,
+        "6":null,
+        "7":"Juara 3"
+    },
+    {
+        "0":"77",
+        "1":"The Inspirex Summit Fest- Business Plan Competition",
+        "2":"Akademik",
+        "3":2025.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Bronze Medal"
+    },
+    {
+        "0":"78",
+        "1":"Inspirex Summit Fest 2025",
+        "2":"Akademik",
+        "3":2025.0,
+        "4":null,
+        "5":1.0,
+        "6":null,
+        "7":"Bronze Medal"
+    }
+]
